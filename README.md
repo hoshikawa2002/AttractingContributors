@@ -17,4 +17,4 @@
 - The Legend of Zelda
 - PokePoke
 - Besiege
-
+- Splatoon3
