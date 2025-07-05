@@ -17,4 +17,5 @@
 - The Legend of Zelda
 - PokePoke
 - Besiege
+- Monster Hunter
 
