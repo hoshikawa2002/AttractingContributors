@@ -18,3 +18,4 @@
 - PokePoke
 - Besiege
 - Splatoon3
+- Monster Hunter
