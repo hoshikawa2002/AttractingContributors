@@ -12,3 +12,4 @@ Share countries you'd like to visit or learn more about!
 - Germany
 - America
 - Switzerland
+- Thailand
